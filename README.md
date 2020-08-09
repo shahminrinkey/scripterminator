@@ -1,6 +1,10 @@
 **<h2>Scripterminator</h2>** 
 **Useful tool to terminate any Python script just using file path and name**
 
+Installation:
+
+`pip install scripterminator`
+
 This package provides a small utility function callled `terminate_script(file,delay)`
 
 This function takes two parameters - `file` and `delay` (optional).
